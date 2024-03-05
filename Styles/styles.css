@@ -1,0 +1,90 @@
+*{margin: 0; padding: 0;}
+.title
+ {padding-bottom: 2em;
+ }
+header{
+    
+        background-color: black;
+        height: 75px;
+        
+    
+}
+nav{
+    background-color: grey;
+    height: 75px;
+
+
+
+}
+main{
+    padding: 15px;
+}
+    .bigImage{
+
+
+      
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: auto;
+            text-decoration:solid white
+            
+    }
+
+    #logoText
+{
+font-size: 200%;
+color: red;
+text-align: justify;
+}
+    #navigation
+{
+   
+        
+   
+   padding-bottom: 2em;
+   background-color: gray;
+
+}
+
+ul li {display: inline}
+
+ul a {font-size:200%;
+    text-decoration:none;
+    border: 2px solid red;
+    border-radius: .4em;
+    margin-right: 10px;
+    color: white;
+    background-color: grey;
+    float:none;
+    margin: 3px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 100%;
+  display:block;
+
+text-align: center;
+padding: 0;
+}
+ul a:hover{
+
+    
+       
+        background-color: red;
+      
+}
+#smallTitleText{
+
+    text-align: center;
+    padding: 20px;
+}
+#herbalTeaText{
+    text-align: center;
+    padding: 20px;
+}
+
+.otherBigImage{
+
+    text-align: center;
+    border: white;
+    text-decoration: solid;
+}
